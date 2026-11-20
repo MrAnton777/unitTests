@@ -51,3 +51,4 @@ cases, and results.
 | Date | Change |
 |---|---|
 | 2026-11-20 | Added `test_geometry.py` with unit tests for circle and square. |
+| 2026-11-20 | Reduced the suite to 12 scenarios. Tests 03 and 12 show gaps against the proposed input validation rules. |
